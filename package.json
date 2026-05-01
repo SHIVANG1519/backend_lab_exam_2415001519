@@ -1,0 +1,14 @@
+{
+  "name": "online-course-platform",
+  "version": "1.0.0",
+  "description": "Simple online course platform with sessions and cookies",
+  "main": "app.js",
+  "scripts": {
+    "start": "node app.js"
+  },
+  "dependencies": {
+    "cookie-parser": "^1.4.7",
+    "express": "^4.21.2",
+    "express-session": "^1.18.1"
+  }
+}
